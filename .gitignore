@@ -1,0 +1,10 @@
+.*
+.idea
+.gitignore
+!/.gitignore
+*.log
+__pycache__
+/local
+/hidden
+/venv
+/data
