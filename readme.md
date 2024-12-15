@@ -8,8 +8,8 @@
 
 ## Зависимости 
 
-В requirements.txt. Дополнительных SDK при работе с API OKX в этом репозитории не используется. Если с SDK проще,   
-то можно использовать python-okx, я о нем рассказывал в [этом плейлисте](https://www.youtube.com/playlist?list=PLWVnIRD69wY6fnQkxIpcB-K7R_AQuA3hT).  
+В requirements.txt. В качестве SDK r OKX API - python-okx, я о нем рассказывал в [этом плейлисте](https://www.youtube.com/playlist?list=PLWVnIRD69wY6fnQkxIpcB-K7R_AQuA3hT).
+Но можно и без нег0.
 
 ### 1 OKX Websocket API Подписка на стакан (Orderbook books5)
 

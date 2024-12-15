@@ -1,4 +1,6 @@
-from WebsocketOrderbookBook5 import main
+# from WebsocketOrderbookBook5 import main
+# from TriggerOrder import main
+from CandlesHistory import main
 
 if __name__ == '__main__':
     main()

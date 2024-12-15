@@ -1,3 +1,4 @@
 websockets
 Faker
 httpx
+python-okx
